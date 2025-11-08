@@ -1,4 +1,4 @@
-# System Architecture — Access Lagos
+# System Architecture — Unlocking opportunities
 
 ## 1. Overview
 Unlocking opportunities is a digital transformation of the Lagos State Employment Trust Fund (LSETF), built to make government funding, training, and job opportunities accessible and transparent for every Lagosian.  
