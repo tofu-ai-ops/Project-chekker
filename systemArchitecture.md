@@ -1,10 +1,7 @@
 # System Architecture — Unlocking opportunities
-
 ## 1. Overview
 Unlocking opportunities is a digital transformation of the Lagos State Employment Trust Fund (LSETF), built to make government funding, training, and job opportunities accessible and transparent for every Lagosian.  
 It connects users with verified programs through a secure and scalable web platform.
-
----
 
 ## 2. Architecture Components
 
@@ -34,8 +31,6 @@ It connects users with verified programs through a secure and scalable web platf
 - SendGrid for email notifications.  
 - Google Analytics for usage tracking and performance metrics.  
 
----
-
 ## 3. Communication Flow
 1. User opens the Unlocking opportunity web portal (React frontend).  
 2. User fills out a profile and submits an application form.  
@@ -45,14 +40,10 @@ It connects users with verified programs through a secure and scalable web platf
 6. User receives updates and notifications via email (SendGrid).  
 7. Admin dashboards display aggregated analytics and impact metrics.  
 
----
-
 ## 4. Feasibility & Technical Justification
 - Scalable: Node.js handles multiple concurrent users efficiently.  
 - Secure: Encrypted connections (HTTPS) and JWT authentication protect user data.  
 - Modular: Each service (frontend, backend, AI, database) can be updated independently.  
 - Cloud-ready: Containerized using Docker and deployable on AWS or Azure.  
-
----
 
 ## 5. System Diagram (Text Version)
